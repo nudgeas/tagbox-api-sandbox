@@ -1,11 +1,3 @@
-# tb-bloom-etl
-Tagbox - Bloom integration
+# tagbox-api-sandbox
 
-Install os and python dependencies
-
-```bash
-$ make setup
-```
-
-Run script with `$ make etl` or `$ python3 etl.py`
 
