@@ -1,5 +1,4 @@
 from config import tagbox
-from config import bloom
 from logs.logger import log
 
 import requests
